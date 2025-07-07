@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fireblocks/ts-sdk": "^3.1.0"
+    "@fireblocks/ts-sdk": "^3.1.0",
+    "dotenv": "^16.4.7"
   },
   "devDependencies": {
     "prettier": "^3.3.3",
